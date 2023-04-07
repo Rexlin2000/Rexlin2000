@@ -43,5 +43,4 @@ As a fresher with a passion for full stack web development, you have a wealth of
 <a href="https://www.stackoverflow.com/users/21047629/rex" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" width="32" height="32" /></a>
 
   <br />
-  <a href="https://github.com/Rexlin2000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexlin2000&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</p>
+
