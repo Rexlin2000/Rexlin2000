@@ -9,6 +9,10 @@ As a fresher with a passion for full stack web development, you have a wealth of
 *   🌍  I'm based in india
 *   ✉️  You can contact me at [rrexlin9@gmail.com](mailto:rrexlin9@gmail.com)
 *   🧠  I'm learning Spring Boot### Skills 
+
+  <br />
+  <br />
+  <h2>Skills</h2>
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" width="36" height="36" alt="Java">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/256/javascript.png" width="36" height="36" alt="JavaScript" />
@@ -26,11 +30,18 @@ As a fresher with a passion for full stack web development, you have a wealth of
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/inkscape.png" width="36" height="36" alt="Inkscape" />
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/bubbles/256/blender-3d.png" width="36" height="36" alt="Blender" />
 </p>
+  
+  <br />
+  <br />
+  <h2>Social Media</h2>
+  
 <p align="left">
                           
-<a href="https://www.github.com/Rexlin2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-<a href="http://www.instagram.com/truerexlin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-<a href="https://www.linkedin.com/in/rexlin-r-0aa006191/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<a href="https://www.github.com/Rexlin2000" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/github.png" width="32" height="32" />
+<a href="http://www.instagram.com/truerexlin" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/256/instagram-new.png" width="32" height="32" />
+<a href="https://www.linkedin.com/in/rexlin-r-0aa006191/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/linkedin.png" width="32" height="32" />
 <a href="https://www.stackoverflow.com/users/21047629/rex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://github.com/Rexlin2000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexlin2000&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+
+  <br />
+  <a href="https://github.com/Rexlin2000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexlin2000&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </p>
