@@ -23,12 +23,14 @@ As a fresher with a passion for full stack web development, you have a wealth of
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/figma.png" width="36" height="36" alt="Figma" />
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/spring-logo.png" width="36" height="36" alt="Spring Boot" />
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" width="36" height="36" alt="Jquery" />
-
+<a href="#" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/inkscape.png" width="36" height="36" alt="Inkscape" />
+<a href="#" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/bubbles/256/blender-3d.png" width="36" height="36" alt="Blender" />
 </p>
 <p align="left">
                           
 <a href="https://www.github.com/Rexlin2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
 <a href="http://www.instagram.com/truerexlin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
 <a href="https://www.linkedin.com/in/rexlin-r-0aa006191/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-<a href="https://www.stackoverflow.com/users/21047629/rex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p><a href="https://github.com/Rexlin2000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexlin2000&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="https://www.stackoverflow.com/users/21047629/rex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://github.com/Rexlin2000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexlin2000&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </p>
