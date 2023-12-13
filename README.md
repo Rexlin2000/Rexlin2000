@@ -1,14 +1,21 @@
 Hi 👋 My name is Rexlin
 =======================
 
-Full Stack Web Developer
+Front-End Web Developer
 ------------------------
 
-As a fresher with a passion for full stack web development, you have a wealth of opportunities ahead of you. Full stack web development is a field that offers a wide range of possibilities, allowing you to build web applications that are both beautiful and functional, and that meet the needs of users and clients. As a full stack web developer, you will have the opportunity to work on both the front-end and back-end of web development. You will need to be proficient in front-end technologies such as HTML, CSS, and JavaScript, and familiar with front-end frameworks such as Bootstrap. You will also need to be skilled in back-end technologies such as Java and be familiar with database technologies such as MySQL.
+Hello there! 👋 I'm Rexlin R, a passionate and creative front-end developer with a fresh perspective on web development. As a recent graduate in Bcom Computer Application , I am eager to embark on my journey in the dynamic world of technology.
 
 *   🌍  I'm based in india
 *   ✉️  You can contact me at [rrexlin9@gmail.com](mailto:rrexlin9@gmail.com)
-*   🧠  I'm learning Spring Boot### Skills 
+*   🧠  I'm learning Spring Boot### Skills
+
+  💻 Technical Skills:
+
+  Proficient in HTML, CSS, and JavaScript.
+  Familiar with modern front-end frameworks such as React.
+  Basic understanding of UI/UX principles.
+  Keen eye for design details and aesthetics.
 
   <br />
   <br />
