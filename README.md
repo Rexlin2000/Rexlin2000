@@ -12,15 +12,19 @@ Hello there! 👋 I'm Rexlin R, a passionate and creative front-end developer wi
 
   💻 Technical Skills:
 
-  Proficient in HTML, CSS, and JavaScript.
-  Familiar with modern front-end frameworks such as React.
-  Basic understanding of UI/UX principles.
-  Keen eye for design details and aesthetics.
+  * Proficient in HTML, CSS, and JavaScript.<br/>
+  * Familiar with modern front-end frameworks such as React.<br/>
+  * Basic understanding of UI/UX principles.<br/>
+  * Keen eye for design details and aesthetics.<br/>
+
+  🌐 Projects:<br />
+          During my academic journey, I undertook projects that honed my skills and showcased my ability to bring ideas to life. One notable project involves Build a Instagram clone and Dashboard in react js. These experiences have equipped me with practical knowledge and a strong foundation in front-end development.
 
   <br />
   <br />
   <h2>Skills</h2>
 <p align="left">
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png" width="36" height="36" alt="Reactjs">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" width="36" height="36" alt="Java">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/256/javascript.png" width="36" height="36" alt="JavaScript" />
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" width="36" height="36" alt="HTML5" />
